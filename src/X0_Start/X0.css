@@ -22,12 +22,17 @@
 .X0_input{
     min-width: 300px ; min-height: 40px ; 
     font-size: 22px ; padding: 2px 4px; font-weight: 600 ; 
+    background-color: #00ffff; text-align: center;
 }.X0_input:focus{
-    outline: none ; border: none;
+    outline: none ;
 }
 .X0_h2{
     color: #f0f8f6 ; max-width: 300px ; font-size: 20px ;
 }
 ::placeholder{
     font-size: 22px;
+}
+
+.unclickable{
+    pointer-events: none;
 }
