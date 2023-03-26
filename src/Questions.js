@@ -126,15 +126,21 @@ export var Data = [
             c:'You may value traditional and rural aspects of life.',
             d:'You may be more urban and enjoy more modern and contemporary culture.',
         },
+        Images:{
+            a:'classic_.jpg',
+            b:'rock_.jpg',
+            c:'country_.jpg',
+            d:'hiphop_.jpg',
+        }
     },
     {
         id:7,
         Question:'How do you approach learning new things?',
         Answers:{
-            a:'Research and gather information before trying it out',
+            a:'Gather information',
             b:'Jump right in and learn as you go',
             c:'Attend classes or workshops',
-            d:'Seek guidance from an expert or mentor',
+            d:'Seek guidance from an expert',
         },
         Results:{
             a:'You may be a more cautious and methodical learner.',
@@ -142,12 +148,18 @@ export var Data = [
             c:'You may value structure and formal learning environments.',
             d:'You may be more collaborative and value mentorship and guidance.',
         },
+        Images:{
+            a:'information_.jpg',
+            b:'jump_.jpg',
+            c:'workshop_.jpg',
+            d:'expert_.jpg',
+        }
     },
     {
         id:8,
         Question:'What is your ideal way to spend a weekend?',
         Answers:{
-            a:'Relaxing at home',
+            a:'Relaxing and chilling-out',
             b:'Exploring a new city or town',
             c:'Participating in outdoor activities',
             d:'Socializing with friends or family',
@@ -158,6 +170,12 @@ export var Data = [
             c:'You may be more active and enjoy being outdoors.',
             d:'You may have a more extroverted and social personality.',    
         },
+        Images:{
+            a:'relax_.jpg',
+            b:'exploring_.jpg',
+            c:'outdoor_.jpg',
+            d:'friends_.jpg'
+        }
     },
     {
         id:9,
@@ -174,6 +192,12 @@ export var Data = [
             c:'You may have a more resilient and thick-skinned personality.',
             d:'You may have a more independent and self-assured personality.',
         },
+        Images:{
+            a:'learning_.jpg',
+            b:'hurt_.jpg',
+            c:'moveon_.jpg',
+            d:'opinion_.jpg',
+        }
     },
     {
         id:10,
@@ -190,6 +214,12 @@ export var Data = [
             c:'You may be more introverted and prefer to be ',
             d:'You may be a more analytical and observant person.',
         },
+        Images:{
+            a:'takingtime_.jpg',
+            b:'friendly_.jpg',
+            c:'waiting_.jpg',
+            d:'analyse_.jpg',
+        }
     },
     {
         id:11,
@@ -206,6 +236,12 @@ export var Data = [
             c:'You may be more strategic and proactive.',
             d:'You may have a more determined and persistent personality.',
         },
+        Images:{
+            a:'clearmind_.jpg',
+            b:'talktosomeone_.jpg',
+            c:'plan_.webp',
+            d:'pushyourself_.jpg',
+        }
     },
     {
         id:12,
@@ -222,6 +258,12 @@ export var Data = [
             c:'You may value efficiency and convenience in communication.',
             d:'You may be more organized and prefer written communication.',
         },
+        Images:{
+            a:'conversation_.png',
+            b:'call_.png',
+            c:'texting_.jpg',
+            d:'email_.png',
+        }
     },
     {
         id:13,
@@ -238,6 +280,12 @@ export var Data = [
             c:'You may have a more holistic and strategic approach to problem-solving.',
             d:'You may have a more analytical and data-driven approach.',
         },
+        Images:{
+            a:'breakproblem_.jpg',
+            b:'solutions_.png',
+            c:'bigpicture_.jpg',
+            d:'analyze_.jpg'
+        }
     },
     {
         id:14,
@@ -254,6 +302,12 @@ export var Data = [
             c:'You may be more risk-averse and prefer stability.',
             d:'You may have a more growth-oriented and optimistic personality.',
         },
+        Images:{
+            a:'flow_.jpg',
+            b:'plan_.jpg',
+            c:'avoidchange_.jpg',
+            d:'challenge_.webp',
+        }
     },
     {
         id:15,
@@ -269,6 +323,12 @@ export var Data = [
             b:'You may be more strategic and goal-oriented.',
             c:'You may be more spontaneous and prefer a less structured approach.',
             d:'You may be more organized and value structure and routine.',
+        },
+        Images:{
+            a:'time_.jpg',
+            b:'important_.png',
+            c:'simple_.jpg',
+            d:'todo_.jpg',
         },
     },
     {
@@ -286,6 +346,12 @@ export var Data = [
             c:'You may be more independent and prefer to work at your own pace.',
             d:'You may be more humble and prefer to support others in achieving their goals.',
         },
+        Images:{
+            a:'leader_.jpg',
+            b:'contributer_.jpg',
+            c:'independently_.webp',
+            d:'supporter_.jpg',
+        },
     },
     {
         id:17,
@@ -302,6 +368,12 @@ export var Data = [
             c:'You may be more reflective and value personal growth and improvement.',
             d:'You may be more analytical and value learning and personal development.',
         },
+        Images:{
+            a:'celebrate_.jpg',
+            b:'selfmotivated_.jpg',
+            c:'selfreflection_.jpg',
+            d:'experience_.jpg',
+        },
     },
     {
         id:18,
@@ -317,6 +389,12 @@ export var Data = [
             b:'You may be more strategic and willing to take risks that have a clear purpose or goal.',
             c:'You may be more spontaneous and prefer to act on your impulses without much planning or analysis.',
             d:'You may be more analytical and prefer to have all the information before making a decision.',
+        },
+        Images:{
+            a:'risk_.jpg',
+            b:'riskplan_.png',
+            c:'takerisk_.webp',
+            d:'analyzerisk_.webp',
         },
     },
 
